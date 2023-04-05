@@ -5,7 +5,7 @@ Hello!
 This repository contains different projects I have worked on solving data science challenges - It includes folders of the project containing raw data, Power BI report, Python Models & SQL query used to extract.
 
 
-Feel free to browse thorugh them & reach out to me at <nitnerdnot@gmail.com>if there are any queries.
+Feel free to browse thorugh them & reach out to me at <nitnerdnot@gmail.com> if there are any queries.
 
 
 PS: I am looking forward to roles such as Data Analyst, Business Analysr, Data Scientist & Marketing Analyst
